@@ -1,4 +1,4 @@
-export const BASE_URL = "http://localhost:4010";
+export const BASE_URL = "http://127.0.0.1:4010";
 
 // AUTH PATH
 export const REGISTER_URL = `${BASE_URL}/api/auth/register`;
