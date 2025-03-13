@@ -1,0 +1,52 @@
+@import "~react-image-gallery/styles/css/image-gallery.css";
+
+/* START Global Roles */
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: "Roboto", sans-serif !important;
+}
+
+/* END Global Roles */
+
+/* START GLOBAL CLASSES */
+
+/* .container {
+  margin: 0 auto;
+} */
+
+.f-cairo {
+  font-family: "Cairo", sans-serif !important;
+}
+
+.row {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  .col-12 {
+    width: 100%;
+  }
+
+  .col-6 {
+    width: 50%;
+  }
+}
+
+.h-100vh {
+  height: 100vh;
+}
+
+/* .mb-2 {
+  margin-bottom: 2rem;
+} */
+
+/* END GLOBAL CLASSES */

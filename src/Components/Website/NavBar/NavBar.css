@@ -1,0 +1,22 @@
+.category-title {
+  width: 100%;
+  transition: 0.2s;
+  -webkit-transition: 0.2s;
+  -moz-transition: 0.2s;
+  -ms-transition: 0.2s;
+  -o-transition: 0.2s;
+
+  &:hover {
+    color: rgb(85, 85, 245) !important;
+  }
+}
+
+.custom-search {
+  color: rgba(0, 0, 0, 0.5) !important;
+
+  &:focus {
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.1) !important;
+    border: rgba(0, 0, 0, 0.1) !important;
+    outline: rgba(0, 0, 0, 0.1) !important;
+  }
+}

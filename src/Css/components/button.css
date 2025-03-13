@@ -1,0 +1,15 @@
+.btn {
+  background-color: white;
+  outline: none;
+  border: 0;
+  padding: 20px 30px;
+  border-radius: 6px;
+}
+
+.btn-primary {
+  background-color: #205e20;
+  color: white;
+  font-size: 18px;
+  font-weight: bold;
+  cursor: pointer;
+}
