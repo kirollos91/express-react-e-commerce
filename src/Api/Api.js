@@ -1,4 +1,4 @@
-export const BASE_URL = "http://127.0.0.1:4010";
+export const BASE_URL = "https://express-e-commerce-backend-production.up.railway.app";
 
 // AUTH PATH
 export const REGISTER_URL = `${BASE_URL}/api/auth/register`;
